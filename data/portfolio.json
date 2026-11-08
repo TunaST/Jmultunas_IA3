@@ -1,0 +1,120 @@
+{
+  "name": "Your Name",
+  "initials": "YN",
+  "headline": "IT Infrastructure & Technology Leader",
+  "intro": "I build reliable infrastructure, strengthen cybersecurity, and help technical teams deliver meaningful business results.",
+  "about": "My experience spans enterprise networking, systems administration, cybersecurity, and IT operations. I enjoy translating complex technical challenges into practical solutions that help organizations grow.",
+  "location": "Dayton, Ohio",
+  "availability": "Open to professional connections",
+  "email": "jmultuna@purdue.edu",
+  "linkedin": "https://www.linkedin.com/in/josephmultunas/",
+  "github": "https://github.com/TunaST",
+  "projects": [
+    {
+      "id": "network",
+      "number": "01",
+      "category": "NETWORK INFRASTRUCTURE",
+      "title": "Enterprise Network Modernization",
+      "description": "An overview of planning and improving enterprise networks, with an emphasis on dependable connectivity, routing and switching, and scalable infrastructure. Replace this draft with your own verified contributions.",
+      "tools": [
+        "Cisco",
+        "OSPF",
+        "VLANs",
+        "Networking"
+      ],
+      "detail": "Describe project scope and your personal responsibilities without revealing confidential infrastructure details.",
+      "url": "",
+      "icon": "network",
+      "image": "/images/ccnp-badge.png",
+      "imageAlt": "Cisco CCNP Enterprise certification emblem"
+    },
+    {
+      "id": "security",
+      "number": "02",
+      "category": "CYBERSECURITY",
+      "title": "Security Infrastructure Improvements",
+      "description": "Security engineering work related to firewalls, network segmentation, access controls, and security operations. Replace this summary with approved, nonconfidential details.",
+      "tools": [
+        "Palo Alto",
+        "Firewalls",
+        "Segmentation",
+        "Security"
+      ],
+      "detail": "Add concrete steps, your role, and any outcomes you are permitted to share.",
+      "url": "",
+      "icon": "shield",
+      "image": "/images/pcnse.png",
+      "imageAlt": "Palo Alto Networks PCNSE certification graphic"
+    },
+    {
+      "id": "leadership",
+      "number": "03",
+      "category": "IT MANAGEMENT & LEADERSHIP",
+      "title": "IT Leadership & Team Development",
+      "description": "Leading IT operations, supporting professional development, prioritizing technical initiatives, and connecting infrastructure decisions with business needs. This case study highlights my approach to building capable teams and improving service delivery.",
+      "tools": [
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "IT Operations"
+      ],
+      "detail": "Add specific, nonconfidential examples of mentoring, cross-functional coordination, resource planning, and measurable outcomes.",
+      "url": "",
+      "icon": "leadership",
+      "image": "/images/leadership.png",
+      "imageAlt": "Military sergeant chevron insignia representing leadership experience"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Networking",
+      "level": "Advanced",
+      "items": [
+        "Cisco Routing & Switching",
+        "OSPF & VLANs",
+        "Network Troubleshooting",
+        "Enterprise Wi-Fi"
+      ]
+    },
+    {
+      "category": "Cybersecurity",
+      "level": "Advanced",
+      "items": [
+        "Palo Alto Firewalls",
+        "Network Segmentation",
+        "Security Controls",
+        "Access Management"
+      ]
+    },
+    {
+      "category": "Infrastructure",
+      "level": "Advanced",
+      "items": [
+        "Windows Server",
+        "Hyper-V",
+        "Storage",
+        "Systems Administration"
+      ]
+    },
+    {
+      "category": "Cloud & Development",
+      "level": "Developing",
+      "items": [
+        "Cloud Architecture",
+        "Python",
+        "Git & GitHub",
+        "React"
+      ]
+    },
+    {
+      "category": "Leadership",
+      "level": "Advanced",
+      "items": [
+        "IT Operations",
+        "Team Development",
+        "Vendor Management",
+        "Project Planning"
+      ]
+    }
+  ]
+}

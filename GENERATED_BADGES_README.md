@@ -1,0 +1,1 @@
+The three portfolio badge images in public/images were generated for this website and are not official certification artwork. All three are 800x600 PNGs. Image fitting is controlled by the last rules in src/styles/main.css.
