@@ -1,14 +1,25 @@
-# AI agent rules for this project
+# AI agent rules #
+AI Project Guidelines
+Project Overview
+I want to build a professional IT portfolio website that highlights my experience in networking, infrastructure, cybersecurity, and IT leadership.
 
-- Use React, Vite, JavaScript, and a small Express server. Do not switch frameworks without approval.
-- Treat `data/portfolio.json` as the content source; avoid hardcoding résumé claims in JSX.
-- Keep components accessible and responsive, including keyboard navigation and mobile navigation.
-- Don't invent experience, project outcomes, credentials, contact information, links, or screenshots.
-- Do not expose internal organization names, network diagrams, credentials, or sensitive infrastructure details.
-- Keep dependencies minimal and source code understandable by a student.
-- Always explain files changed and why after implementing a feature.
-- Check `npm run build` after changes. Never claim to have tested a browser, Docker, or Cloud Run unless tests actually ran.
-- Cloud Run must listen on `0.0.0.0` and `$PORT`; keep production container compatible.
-- Do not commit `.env` files, secrets, build artifacts, or `node_modules`.
-- Prompt log entries must reflect prompts actually submitted and genuine outcomes, not fabricated history.
-- The student must write the reflection without AI-generated prose.
+The website should be something I can share with employers and use throughout my career.
+General Guidelines
+- Keep the website professional, modern, and easy to navigate.
+- Make sure it works on desktop and mobile devices.
+- Use my actual professional experience and certifications.
+- Keep the design simple rather than adding unnecessary features.
+- Explain major changes so I can understand how the website works.
+- Ask questions when additional information is needed.
+- Avoid including confidential company information.
+- Keep the code organized and understandable.
+Development Preferences
+- Use React and JavaScript for the website.
+- Use a small backend to manage portfolio information.
+- Keep project information easy to update.
+- Make sure the website can be deployed to Google Cloud Run.
+- Do not include passwords, API keys, or sensitive information in the repository.
+Working With AI
+I want to develop the website through multiple prompts instead of providing every technical requirement upfront.
+
+I will review the results, request changes, and troubleshoot problems as they come up. The goal is to create a working website while also understanding the development and deployment process.
